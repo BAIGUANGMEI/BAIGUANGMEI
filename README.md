@@ -6,11 +6,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Self taught developer
-- 🌱 Currently learning data analysis
-- 💼 Passionate about solving complex problems and building user-friendly applications
-- 🌟 Committed to writing clean, efficient, and maintainable code
-- 📫 Reach me at: meizhihan111@outlook.com
+- 🚀 Currently Studying at the University of Hong Kong
+- 🌱 Learning data analysis, preparing the internship
+- 💼 Exploring the Hong Kong
+
 
 ## 🛠️ Technologies & Tools
 
