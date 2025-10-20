@@ -1,7 +1,7 @@
 # 👋 Hello, I'm BAIGUANG MEI
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Non-CS Backgroud Developer;Continuous+Learner&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Non-CS+Background+Developer;Learing+Data+Analysis;Continuous+Learner&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&size=22">
 </div>
 
 ## 🧑‍💻 About Me
