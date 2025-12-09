@@ -1,17 +1,26 @@
 # 👋 Hello, I'm BAIGUANG MEI
+<div align="left">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Non-CS+Background+Developer;Learing+Data+Analysis;Continuous+Learner&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&size=22">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zhihan-mei-599008374/)](https://www.linkedin.com/in/zhihan-mei-599008374/)
+[![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/BAIGUANGMEI)](https://github.com/BAIGUANGMEI)
+[![Outlook](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:meizhihan111@outlook.com)](mailto:meizhihan111@outlook.com)
+
 </div>
 
-## 🧑‍💻 About Me
 
-- 🚀 Currently Studying at the University of Hong Kong
-- 🌱 Learning data analysis, preparing the internship
-- 💼 Exploring the Hong Kong
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Non-CS+Background+Developer;Learning+Data+Analysis;Continuous+Learner&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&size=22">
+</div>
 
 
-## 🛠️ Technologies & Tools
+## About Me
+
+- Currently Studying at the University of Hong Kong
+- Learning data analysis, preparing the internship
+- Exploring the Hong Kong
+
+
+## Technologies & Tools
 
 <div align="center">
   
@@ -28,7 +37,7 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BAIGUANGMEI&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="BAIGUANGMEI's GitHub Stats" />
@@ -38,19 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIGUANGMEI&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" />
 </div>
 
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-meizhihan111@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:meizhihan111@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BAIGUANGMEI-181717?style=for-the-badge&logo=github)](https://github.com/BAIGUANGMEI)
-
-</div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BAIGUANGMEI&color=3498db&style=for-the-badge" alt="Profile Views Counter" />
   
-  ⭐️ Thanks for visiting my GitHub profile! ⭐️
+  Thanks for visiting my GitHub profile!
 </div>
