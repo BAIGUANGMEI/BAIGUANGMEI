@@ -1,5 +1,5 @@
 # 👋 Hello, I'm BAIGUANG MEI
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zhihan-mei-599008374/)](https://www.linkedin.com/in/zhihan-mei-599008374/)
 [![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/BAIGUANGMEI)](https://github.com/BAIGUANGMEI)
@@ -8,16 +8,17 @@
 </div>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Non-CS+Background+Developer;Learning+Data+Analysis;Continuous+Learner&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&size=22">
-</div>
-
-
 ## About Me
 
 - Currently Studying at the University of Hong Kong
-- Learning data analysis, preparing the internship
+- Doing internship at China Asset Management Co., Ltd(HK)
 - Exploring the Hong Kong
+
+
+## Current Project
+
+- [datago](https://github.com/BAIGUANGMEI/datago) A library for data analysis in Golang.
+- [fabric](https://github.com/BAIGUANGMEI/fabric) A ligthtweight dashboard for python web applications.
 
 
 ## Technologies & Tools
@@ -29,6 +30,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,11 +42,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BAIGUANGMEI&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="BAIGUANGMEI's GitHub Stats" />
+  <img src="https://github-readme-stats-henrymei.vercel.app/api?username=BAIGUANGMEI&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="BAIGUANGMEI's GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BAIGUANGMEI&theme=buefy&hide_border=true" alt="BAIGUANGMEI's Contribution Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIGUANGMEI&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-henrymei.vercel.app/api/top-langs/?username=BAIGUANGMEI&layout=compact&theme=buefy&hide_border=true" alt="Most Used Languages" />
 </div>
 
 
