@@ -15,12 +15,6 @@
 - Exploring the Hong Kong
 
 
-## Current Project
-
-- [datago](https://github.com/BAIGUANGMEI/datago) A library for data analysis in Golang.
-- [fabric](https://github.com/BAIGUANGMEI/fabric) A ligthtweight dashboard for python web applications.
-
-
 ## Technologies & Tools
 
 <div align="center">
